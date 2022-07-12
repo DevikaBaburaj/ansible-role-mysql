@@ -1,0 +1,11 @@
+---
+package_name:
+  - mysql-server
+  - mysql-client
+  - mysql-common
+  - python3-pymysql
+
+mysql_root_password: "Passw0rd"
+mysql_db: "wordpress"
+mysql_user: "Tomy"
+mysql_password: "TomyWordpress"
